@@ -169,18 +169,18 @@ cv:
         keywords: "R (RStudio), Python (NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib), Linux shell scripting (HPC), SQL"
 
       - name: Data Analysis
-        keywords: "Machine Learning (LR, DT, RF, SVM, KNN, GBM), Deep Learning (ANN, CNN, RNN), Data Visualization"
+        keywords: "Machine Learning (Logistic Regression (LR), Decision Tree (DT), Random Forest (RF), Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Gradient Boosting Machine (GBM)), Deep Learning (Artificial Neural Network (ANN), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN)), Data Visualization"
 
     Languages:
       - name: Chinese
         summary: Native
 
       - name: English
-        summary: Fluent
+        summary: Fluent (C2)
 
       - name: French
-        summary: Beginner
+        summary: Beginner (A2)
 
     Interests:
       - name: Sports
-        keywords: "Soccer referee, traveling, climbing"
+        keywords: "Soccer Referee: Regional Grade Referee (Soccer Quebec); National Football Referee Level 1 (Chinese Football Association)"
