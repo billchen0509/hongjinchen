@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-nav: true
+nav: false
 nav_order: 1
 subtitle: Bioinformatics, Metabolomics, Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL).
 
