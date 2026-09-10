@@ -19,16 +19,16 @@ cv:
         studyType: PhD
         start_date: 2026-01
         end_date: 2029-01
-        courses: "Dairy Milk Analysis; Milk Composition; Dairy Production"
+        courses: "Dairy Milk Analysis; NMR Metabolomics; Machine Learning"
 
-      - institution: Technical University of Denmark
+      - institution: Technical University of Denmark (DTU)
         location: Copenhagen, Denmark
         area: Bioinformatics and Systems Biology
         studyType: Master of Science (MSc) in Engineering
         start_date: 2023-08
         end_date: 2025-10
         score: "GPA: 10.1/12 (3.7/4.0)"
-        courses: "Machine Learning; Deep Learning; High Performance Computing; Next-Generation Sequencing"
+        courses: "Machine Learning (ML); Deep Learning (DL); High Performance Computing (HPC); Next-Generation Sequencing (NGS)"
 
       - institution: McGill University
         location: Montreal, Canada
