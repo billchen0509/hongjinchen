@@ -20,13 +20,11 @@ cv:
         start_date: 2026-01
         end_date: 2029-01
         courses: "Dairy Milk Analysis; Milk Composition; Dairy Production"
-        highlights:
-          - "Supervisor: Dr. Matthias Klein"
 
       - institution: Technical University of Denmark
         location: Copenhagen, Denmark
         area: Bioinformatics and Systems Biology
-        studyType: MSc Eng
+        studyType: Master of Science (MSc) in Engineering
         start_date: 2023-08
         end_date: 2025-10
         score: "GPA: 10.1/12 (3.7/4.0)"
@@ -42,7 +40,7 @@ cv:
       - institution: Sichuan Agricultural University
         location: Chengdu, China
         area: Veterinary Medicine
-        studyType: BSc
+        studyType: Bachelor of Science (BSc)
         start_date: 2018-09
         end_date: 2022-06
         score: "GPA: 3.7/4.0; Class Rank: 1/35; Major Rank: 17/262"
