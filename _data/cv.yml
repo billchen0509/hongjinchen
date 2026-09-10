@@ -158,11 +158,11 @@ cv:
         publisher: BBA - Molecular Basis of Disease (Submitted)
 
     Conference:
-      - label: "Metabolomic serum biomarkers and machine learning improve prediction of postpartum weight retention"
-        details: "Chen, H., Christian, L.M., Greenwood, P., Papaleo, E., Klein, M.S. — 7th Annual Canadian Metabolomics Conference, Toronto, Canada (Oral and poster presentation), 2026."
+      - label: "1. Chen, H.<span style=\"font-weight: normal\">, Christian, L.M., Greenwood, P., Papaleo, E., Klein, M.S.</span>"
+        details: "Metabolomic serum biomarkers and machine learning improve prediction of postpartum weight retention — 7th Annual Canadian Metabolomics Conference, Toronto, Canada (<strong>Oral</strong> and poster presentation), 2026."
 
-      - label: "Prediction of driver genes in basal-like breast cancer with Moonlight2R"
-        details: "Chen, H., Akhuli, S., Nourbakhsh, M., Tiberti, M., Papaleo, E. — 8th Annual Danish Bioinformatics Conference, Copenhagen, Denmark (Poster presentation), 2024."
+      - label: "2. Chen, H.<span style=\"font-weight: normal\">, Akhuli, S., Nourbakhsh, M., Tiberti, M., Papaleo, E.</span>"
+        details: "Prediction of driver genes in basal-like breast cancer with Moonlight2R — 8th Annual Danish Bioinformatics Conference, Copenhagen, Denmark (Poster presentation), 2024."
 
     Skills:
       - name: Programming
